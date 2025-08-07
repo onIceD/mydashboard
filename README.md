@@ -1,4 +1,3 @@
-==========================================
  Minecraft Server Dashboard - Lite Version
  by onIceD
 ==========================================
@@ -97,6 +96,7 @@ Use is entirely at your own risk.
 
 Entwickler / Developer: onIceD  
 Spigot: https://www.spigotmc.org/members/oniced.1752320/
+GitHub: https://github.com/onIceD
 
 ------------------------------------------
  VERSION
