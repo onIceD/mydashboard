@@ -109,5 +109,4 @@ Datum / Date: August 08 2025
  LIZENZ / LICENSE
 ------------------------------------------
 
-DE: Nur für private oder nicht-kommerzielle Nutzung. Alle Rechte vorbehalten.  
-EN: For private or non-commercial use only. All rights reserved.
+MIT Lizenz / MIT licence
