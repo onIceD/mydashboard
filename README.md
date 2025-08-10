@@ -102,8 +102,8 @@ GitHub: https://github.com/onIceD
  VERSION
 ------------------------------------------
 
-Version: Lite 1.0.0  
-Datum / Date: August 08 2025
+Version: Lite 1.1.0  
+Datum / Date: August 09 2025
 
 ------------------------------------------
  LIZENZ / LICENSE
